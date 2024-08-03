@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\novruzoff\\desktop\\phonebook\\phonebook\\models\\phonebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\models\\phonebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\novruzoff\\desktop\\phonebook\\phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\listform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\novruzoff\\desktop\\phonebook\\phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|c:\\users\\novruzoff\\desktop\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690E83CE-4401-4D24-9CBF-03C08F388715}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListForm.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\ListForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\ListForm.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\ListForm.cs",
+              "RelativeToolTip": "PhoneBook\\ListForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:56:48.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\Form1.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Form1.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\Form1.cs",
+              "RelativeToolTip": "PhoneBook\\Form1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:52:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\EditForm.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\EditForm.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\EditForm.cs",
+              "RelativeToolTip": "PhoneBook\\EditForm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:42:53.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneBookContext.cs",
+              "DocumentMoniker": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\Models\\PhoneBookContext.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Models\\PhoneBookContext.cs",
+              "ToolTip": "C:\\Users\\Novruzoff\\Desktop\\PhoneBook\\PhoneBook\\Models\\PhoneBookContext.cs",
+              "RelativeToolTip": "PhoneBook\\Models\\PhoneBookContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:32:51.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
